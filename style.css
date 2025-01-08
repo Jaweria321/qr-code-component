@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
     background-color: var(--slate-300);
 }
-h2 {
+h1 {
     font-size: 22px;
     font-weight: bold;
     color: var(--slate-900);
